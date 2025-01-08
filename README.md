@@ -1,5 +1,6 @@
 # Taller11
-
+Jorge Diaz
+Luis Sanchez
 * Para el taller se debe usar los conceptos de funciones y procedimientos
 
 ### Problema 01
